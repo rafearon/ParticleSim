@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Robert/Documents/GitHub/ParticleSim/UnityProject/Assets/Scenes/ParticleScene.unity
+  isLoaded: 1
+  isActive: 1
